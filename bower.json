@@ -1,0 +1,17 @@
+{
+  "name": "saffire-web",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Addvilz/website",
+  "authors": [
+    "Matiss Treinis <mrtreinis@gmail.com>"
+  ],
+  "description": "saffire-lang.org website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
