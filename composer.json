@@ -1,0 +1,12 @@
+{
+    "name": "saffire/saffire-web",
+    "description": "saffire-lang.org website",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matiss Treinis",
+            "email": "mrtreinis@gmail.com"
+        }
+    ],
+    "require": {}
+}
