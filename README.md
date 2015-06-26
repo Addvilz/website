@@ -3,7 +3,7 @@
 1. Clone the repository
 2. Run `composer install`
 3. Run `bower install`
-4. Point web server to ./web/index.php
+4. Point web server to `/web/index.php`
 
 You can use built in PHP development server for development using this command:
 
